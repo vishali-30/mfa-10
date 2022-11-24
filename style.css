@@ -1,0 +1,73 @@
+body{
+    background-color: #0d1a2d;
+    color: #7a91b2;
+    font-size: 16px;
+  }
+  .main{
+    background-color:#15273f ;
+    border-radius: 20px;
+    height: 500px;
+    width: 290px;
+    margin-top: 180px;
+    margin-left: 530px;
+  }
+
+  span{
+    color: white;
+  }
+  hr{
+    border:1px solid  hsl(215, 32%, 27%);
+  }
+  .avatar{
+    width: 40px;
+    height: 40px;
+    border:white;
+    border-style: solid;
+    border-radius: 70%;
+    border-image: 50px;
+    margin-left: 10px;
+  }
+ .numbers{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+
+       
+  }
+  .bottom{
+    display: flex;
+    font-size: 16px;
+  }
+  .icon2{
+    width: 20px;
+    height: 20px;
+    padding-top: 17px;
+    margin-left: 100px;
+    }
+  h2{
+    color: white;
+    font-size: 24px;
+  }
+  .equilibrium img{
+    width: 250px;
+    height: 230px;
+    padding-left:20px;
+    border-radius:20px;
+    padding-top: 20px;
+  }
+  .name{
+    padding-left: 10px;
+  }
+  .content{
+    padding-left: 8px;
+  }
+  .iconp{
+    padding-right: 8px;
+  }
+.icon1{
+       
+        width: 18px;
+        height: 25px;
+        padding-top: 15px;
+        padding-left: 5px;
+}
